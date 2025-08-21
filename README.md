@@ -1,0 +1,2 @@
+# hello-world
+Hello World project — starting my GitHub journey 🚀”  “Basic repo for learning GitHub workflow with a simple Hello World program. First repository created for practicing commits, pushes, and version control.
